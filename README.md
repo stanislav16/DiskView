@@ -35,3 +35,7 @@ after every rebuild.
 
 - `DiskView --scan <path>` prints totals and timing without opening a window.
 - `DISKVIEW_SNAPSHOT=<dir> DISKVIEW_SNAPSHOT_PATH=<path> DiskView` walks through the screens and saves PNGs.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
